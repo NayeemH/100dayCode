@@ -1,0 +1,7 @@
+/Volumes/Macintosh HD — Data/Work/100dayCode/Selise/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/Macintosh HD — Data/Work/100dayCode/Selise/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/Macintosh HD — Data/Work/100dayCode/Selise/cmake-build-debug/CMakeFiles/Selise.dir
+/Volumes/Macintosh HD — Data/Work/100dayCode/Selise/cmake-build-debug/CMakeFiles/CMakeCache.dir
+/Volumes/Macintosh HD — Data/Work/100dayCode/Selise/cmake-build-debug/CMakeFiles/test.dir
+/Volumes/Macintosh HD — Data/Work/100dayCode/Selise/cmake-build-debug/CMakeFiles/CMakeLists.dir
+/Volumes/Macintosh HD — Data/Work/100dayCode/Selise/cmake-build-debug/CMakeFiles/main.dir

@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "100dayCode"
   "100dayCode.pdb"
+  "CMakeFiles/100dayCode.dir/Day01/2DArray.cpp.o"
   "CMakeFiles/100dayCode.dir/Day01/arrayReverse.cpp.o"
 )
 

@@ -143,6 +143,33 @@ depend:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/100dayCode.dir/build.make CMakeFiles/100dayCode.dir/build
 .PHONY : 100dayCode/fast
 
+Day01/2DArray.o: Day01/2DArray.cpp.o
+
+.PHONY : Day01/2DArray.o
+
+# target to build an object file
+Day01/2DArray.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/100dayCode.dir/build.make CMakeFiles/100dayCode.dir/Day01/2DArray.cpp.o
+.PHONY : Day01/2DArray.cpp.o
+
+Day01/2DArray.i: Day01/2DArray.cpp.i
+
+.PHONY : Day01/2DArray.i
+
+# target to preprocess a source file
+Day01/2DArray.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/100dayCode.dir/build.make CMakeFiles/100dayCode.dir/Day01/2DArray.cpp.i
+.PHONY : Day01/2DArray.cpp.i
+
+Day01/2DArray.s: Day01/2DArray.cpp.s
+
+.PHONY : Day01/2DArray.s
+
+# target to generate assembly for a file
+Day01/2DArray.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/100dayCode.dir/build.make CMakeFiles/100dayCode.dir/Day01/2DArray.cpp.s
+.PHONY : Day01/2DArray.cpp.s
+
 Day01/arrayReverse.o: Day01/arrayReverse.cpp.o
 
 .PHONY : Day01/arrayReverse.o
@@ -179,6 +206,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... 100dayCode"
+	@echo "... Day01/2DArray.o"
+	@echo "... Day01/2DArray.i"
+	@echo "... Day01/2DArray.s"
 	@echo "... Day01/arrayReverse.o"
 	@echo "... Day01/arrayReverse.i"
 	@echo "... Day01/arrayReverse.s"
