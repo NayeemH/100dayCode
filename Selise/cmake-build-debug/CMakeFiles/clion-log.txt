@@ -1,8 +1,0 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Volumes/Macintosh HD — Data/Work/100dayCode/Selise"
--- Configuring done
-CMake Error: Cannot determine link language for target "CMakeCache".
-CMake Error: CMake can not determine linker language for target: CMakeCache
-CMake Error: Cannot determine link language for target "CMakeLists".
-CMake Error: CMake can not determine linker language for target: CMakeLists
--- Generating done
-CMake Generate step failed.  Build files cannot be regenerated correctly.
